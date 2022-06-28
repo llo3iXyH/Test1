@@ -18,7 +18,7 @@ public class Zoo {
         b2.age = 120 ;
         b2.growth = 50;
         b2.weight = 15.5;
-        b2.located = "майже по всьому світу";
+        b2.located = "майже по всьому світу"; //
         System.out.println("Короткі данні про данну тварину :" + b2.name +
                 ", живе " + b2.located + " може прожити до " + b2.age +
                 " років, та матє розміри до " + b2.growth +

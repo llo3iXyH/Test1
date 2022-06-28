@@ -9,7 +9,7 @@ class All {
     String brand;
     String located;
     String residence;
-    int x;
+    /*int x;*/
     byte age;
     byte itGrows;
     int growth;
